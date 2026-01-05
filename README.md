@@ -1,6 +1,4 @@
-# 🎓 Advanced R Programming: From Fundamentals to Research-Level Data Science
-
-> **Author's Note**: This course is designed to take students from R basics to advanced research-level programming, showcasing professional coding patterns used in real bioinformatics and data science projects.
+# 🎓 R Programming: From Fundamentals to Research-Level Data Science
 
 ---
 
@@ -202,12 +200,12 @@ Focus on advanced programming patterns and domain-specific skills.
 
 This course emphasizes:
 
-✅ **Clarity over cleverness** - Code should be readable
-✅ **Reproducibility** - Scripts should run anywhere
-✅ **Efficiency** - Use vectorization, avoid unnecessary loops
-✅ **Documentation** - Comment the "why", not just the "what"
-✅ **Best practices** - Follow tidyverse style guide
-✅ **Real-world relevance** - Examples from actual research
+- ✅ **Clarity over cleverness** - Code should be readable
+- ✅ **Reproducibility** - Scripts should run anywhere
+- ✅ **Efficiency** - Use vectorization, avoid unnecessary loops
+- ✅ **Documentation** - Comment the "why", not just the "what"
+- ✅ **Best practices** - Follow tidyverse style guide
+- ✅ **Real-world relevance** - Examples from actual research
 
 ---
 
